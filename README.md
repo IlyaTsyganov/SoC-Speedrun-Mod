@@ -1,5 +1,7 @@
 # SoC-Speedrun-Mod
 
+# [DOWNLOAD](https://github.com/IlyaTsyganov/SoC-Speedrun-Mod/releases/tag/soc_srmod_v_1_0)
+
 ### **ENG**
 
 Speedrun modification for S.T.A.L.K.E.R.: Shadow of Chernobyl (for version 1.0006 only)
